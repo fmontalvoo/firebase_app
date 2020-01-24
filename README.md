@@ -17,4 +17,4 @@ contraseña del almacén de claves: **android**
 ## Enlaces
 - [Codelab Firebase](https://codelabs.developers.google.com/codelabs/flutter-firebase/)
 - [Certificar una aplicación](https://developers.google.com/android/guides/client-auth?hl=ES)
-- [Cliente REST FLutter](https://github.com/fmontalvoo/flutter_rest)   
+- [Cliente REST Flutter](https://github.com/fmontalvoo/flutter_rest)   
